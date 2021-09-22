@@ -1,10 +1,12 @@
 # Amazon_Vine_Analysis
 
 ##Overview
+
 The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 This analysis is done to determine if there is any bias toward favorable reviews from Vine members in your dataset.
 
 ##Results
+
 ![](https://github.com/mdabbous88/Amazon_Vine_Analysis/blob/main/Results.png)
 
 * How many Vine reviews and non-Vine reviews were there?
