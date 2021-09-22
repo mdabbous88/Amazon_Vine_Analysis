@@ -1,11 +1,11 @@
 # Amazon_Vine_Analysis
 
-##Overview
+## Overview
 
 The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 This analysis is done to determine if there is any bias toward favorable reviews from Vine members in your dataset.
 
-##Results
+## Results
 
 ![](https://github.com/mdabbous88/Amazon_Vine_Analysis/blob/main/Results.png)
 
@@ -27,7 +27,7 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 -The percentage of 5-star reviews from non-vine program is ~52%
 
-##Summary
+## Summary
 
 The obtained percentages of 5-star vine reviews and 5-star non vine reviews show that the is no bias from the vine program reviewers to put a positive review because the percentage of 5-star reviews from the vine program (32%) is less the the 5-star reviews from the non vine program (52%). 
 
